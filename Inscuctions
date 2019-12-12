@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=WBPrJSw7yQA
+What ?
+TypeScript is an open source programming language from Microsoft.
+Typed superset of Javascript
+Compiles down to plain Javascript.
+
+Why ?
+Relation to Javascript.
+Optional static typing and type inference.
+IDE support.
+Rapid growth and use.
+
+->ts for typesccript
+-> tsc main // for compile into Javascript
+-> node main // run Javascript file
