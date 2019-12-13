@@ -9,6 +9,18 @@ Relation to Javascript.
 Optional static typing and type inference.
 IDE support.
 Rapid growth and use.
+TypeScript 3.0 introduced Unkown Type.
+
+It provides type checking and intellisense support.
+Static Type Checking in which we cannot assign string to number or number to string.
+In Javascript Classes are not support but in es6 and typesccript classes are supported.
+Access Modifiers are basically keywords that set the accessibility of properties and methods in a class.
+like  public,private,protected
+
+Public for public accessibility
+Private for accessibility within the class
+Protectes for accessibility within a class and the classes derived from it.
+Contructor for derived classes must contain a super call.
 
 ->ts for typesccript
 -> tsc main // for compile into Javascript
